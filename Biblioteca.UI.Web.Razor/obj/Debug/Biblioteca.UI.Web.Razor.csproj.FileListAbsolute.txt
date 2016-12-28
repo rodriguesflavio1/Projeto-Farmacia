@@ -1,0 +1,74 @@
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.UI.Web.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.UI.Web.Razor.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Antlr3.Runtime.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Aplicacao.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Newtonsoft.Json.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Net.Http.Formatting.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Http.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Http.WebHost.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Mvc.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Optimization.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Providers.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\WebGrease.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Aplicacao.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Newtonsoft.Json.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Net.Http.Formatting.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Http.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Http.WebHost.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Mvc.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.Razor.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Razor.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Repositorio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\obj\Debug\Biblioteca.UI.Web.Razor.csprojResolveAssemblyReference.cache
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\obj\Debug\Biblioteca.UI.Web.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\obj\Debug\Biblioteca.UI.Web.Razor.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Repositorio.Entity.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\EntityFramework.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\Biblioteca.Repositorio.Entity.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\EntityFramework.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\EntityFramework.SqlServer.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.UI.Web.Razor\bin\EntityFramework.SqlServer.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.UI.Web.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.UI.Web.Razor.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Antlr3.Runtime.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.Aplicacao.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Newtonsoft.Json.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Net.Http.Formatting.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Http.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Http.WebHost.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Mvc.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Optimization.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Providers.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\WebGrease.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.Aplicacao.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Newtonsoft.Json.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Net.Http.Formatting.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Http.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Http.WebHost.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Mvc.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.Razor.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\System.Web.WebPages.Razor.xml
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\bin\Biblioteca.Repositorio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\obj\Debug\Biblioteca.UI.Web.Razor.csprojResolveAssemblyReference.cache
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\obj\Debug\Biblioteca.UI.Web.Razor.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.UI.Web.Razor\obj\Debug\Biblioteca.UI.Web.Razor.pdb

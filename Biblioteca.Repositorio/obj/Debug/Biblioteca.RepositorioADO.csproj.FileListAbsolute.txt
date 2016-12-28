@@ -1,0 +1,28 @@
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\obj\Debug\Biblioteca.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\obj\Debug\Biblioteca.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\obj\Debug\Biblioteca.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\obj\Debug\Biblioteca.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.pdb

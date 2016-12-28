@@ -1,0 +1,17 @@
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+C:\Users\rodri\Desktop\Projeto Agendamento_Versao\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb

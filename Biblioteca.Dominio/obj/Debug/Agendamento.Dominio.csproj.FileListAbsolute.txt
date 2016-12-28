@@ -1,0 +1,4 @@
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Agendamento\Projeto Agendamento\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb

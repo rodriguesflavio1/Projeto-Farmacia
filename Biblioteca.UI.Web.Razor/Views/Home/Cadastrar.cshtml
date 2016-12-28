@@ -1,0 +1,83 @@
+﻿@using System.Web.Mvc.Html
+@model Agendamento.Dominio.Usuario
+
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastrar</h2>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+
+@Html.ValidationSummary(true, "Ocorreu um erro no preenchimento do formulário. Verifique...")
+
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    @Html.AntiForgeryToken()
+
+    <fieldset>
+        <legend>Usuario</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nome)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nome)
+            @Html.ValidationMessageFor(model => model.nome)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.cpf)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.cpf)
+            @Html.ValidationMessageFor(model => model.cpf)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.endereco)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.endereco)
+            @Html.ValidationMessageFor(model => model.endereco)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.dataNascimento)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.dataNascimento)
+            @Html.ValidationMessageFor(model => model.dataNascimento)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.bairro)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.bairro)
+            @Html.ValidationMessageFor(model => model.bairro)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.cidade)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.cidade)
+            @Html.ValidationMessageFor(model => model.cidade)
+        </div>
+
+        <p>
+            <input type="submit" value="Cadastrar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

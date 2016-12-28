@@ -1,0 +1,60 @@
+﻿@model Agendamento.Dominio.Usuario
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h2>Excluir</h2>
+
+<h3>Tem certeza que deseja excluir esse usuário?</h3>
+<fieldset>
+    <legend>Usuario</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.nome)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nome)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.cpf)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.cpf)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.endereco)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.endereco)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.dataNascimento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.dataNascimento)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.bairro)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.bairro)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.cidade)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.cidade)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Excluir" /> |
+        @Html.ActionLink("Cancelar", "Index")
+    </p>
+}

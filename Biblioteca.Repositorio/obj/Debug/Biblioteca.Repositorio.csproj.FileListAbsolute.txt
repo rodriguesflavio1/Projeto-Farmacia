@@ -1,0 +1,4 @@
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\bin\Debug\Biblioteca.Repositorio.pdb
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.dll
+C:\Users\aDilm\Documents\Visual Studio 2012\Projects\Projeto Biblioteca\Biblioteca.Repositorio\obj\Debug\Biblioteca.Repositorio.pdb

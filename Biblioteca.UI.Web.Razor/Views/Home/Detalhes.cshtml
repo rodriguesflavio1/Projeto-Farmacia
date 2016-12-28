@@ -1,0 +1,57 @@
+﻿@model Agendamento.Dominio.Usuario
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes</h2>
+
+<fieldset>
+    <legend>Usuario</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.nome)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nome)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.cpf)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.cpf)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.endereco)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.endereco)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.dataNascimento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.dataNascimento)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.bairro)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.bairro)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.cidade)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.cidade)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.usuarioId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
