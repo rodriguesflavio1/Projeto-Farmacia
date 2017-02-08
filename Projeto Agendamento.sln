@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.RepositorioADO", "Biblioteca.Repositorio\Biblioteca.RepositorioADO.csproj", "{28771DA1-F8D1-4753-975A-621E7B329284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Dominio", "Biblioteca.Dominio\Biblioteca.Dominio.csproj", "{19A5523B-9A02-4ADA-A4C9-82AAEF0B379A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Aplicacao", "Biblioteca.Aplicacao\Biblioteca.Aplicacao.csproj", "{6376B8F4-5717-4744-8FF8-089A6AFFFE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroMedicamento", "CadastroMedicamento\CadastroMedicamento.csproj", "{A443D0D2-5B54-4370-95AB-F49D87934267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28771DA1-F8D1-4753-975A-621E7B329284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28771DA1-F8D1-4753-975A-621E7B329284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28771DA1-F8D1-4753-975A-621E7B329284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28771DA1-F8D1-4753-975A-621E7B329284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A5523B-9A02-4ADA-A4C9-82AAEF0B379A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A5523B-9A02-4ADA-A4C9-82AAEF0B379A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A5523B-9A02-4ADA-A4C9-82AAEF0B379A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A5523B-9A02-4ADA-A4C9-82AAEF0B379A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6376B8F4-5717-4744-8FF8-089A6AFFFE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6376B8F4-5717-4744-8FF8-089A6AFFFE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6376B8F4-5717-4744-8FF8-089A6AFFFE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6376B8F4-5717-4744-8FF8-089A6AFFFE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A443D0D2-5B54-4370-95AB-F49D87934267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A443D0D2-5B54-4370-95AB-F49D87934267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A443D0D2-5B54-4370-95AB-F49D87934267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A443D0D2-5B54-4370-95AB-F49D87934267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
