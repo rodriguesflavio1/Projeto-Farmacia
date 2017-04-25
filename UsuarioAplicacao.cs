@@ -10,16 +10,24 @@ namespace Biblioteca.Aplicacao
 {
     public class UsuarioAplicacao
     {
+       
+        
+                
+            
         private readonly IRepositorio<Produto> repositorio;
         private readonly IRepositorioUsuario<Usuario> repositorioUsuario;
         private readonly IRepositorioProdutoRelatorio<ProdutoRelatorio> repositorioProdutoRelatorio;
-
+        
        //metodo construtor
+
+         public UsuarioAplicacao() { }
+
         public UsuarioAplicacao(IRepositorio<Produto> repositorioProduto)
         {
+            
             repositorio = repositorioProduto;
         }
-
+        
         public UsuarioAplicacao(IRepositorioUsuario<Usuario> repositoUsuario)
         {
             repositorioUsuario = repositoUsuario;
@@ -134,6 +142,8 @@ namespace Biblioteca.Aplicacao
             return valor;
         }
 
+        
+
         //public int RetornaQuantidadeDeRegistros()
         //{
         //    return repositorio.ListarQuantidadeDeRegistros();
@@ -143,7 +153,10 @@ namespace Biblioteca.Aplicacao
         //{
         //    return repositorio.ListarPaginacaoTeste(nomeDaColuna, nome,regInicio,quantidadeDeRegistrosPaginar);
         //}
-
+        
        
     }
+    
+    
+   
 }
